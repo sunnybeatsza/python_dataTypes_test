@@ -6,16 +6,16 @@ Structure Overview
 ## The project is organized as follows:
 
 .
-├── basic_test.py                 # Contains basic Python operations (integers, strings, booleans).
-├── intermediate_test.py          # Tests involving lists, tuples, sets, and dictionaries.
-├── advanced_test.py              # More complex tasks involving list comprehensions, nested structures, and dictionary manipulation.
-├── error_handling_test.py        # Tests designed to help you handle common Python errors.
-├── tests/                        # Folder containing all unit tests.
-│   ├── test_basic.py             # Unit tests for the basic_test.py functions.
-│   ├── test_intermediate.py      # Unit tests for the intermediate_test.py functions.
-│   ├── test_advanced.py          # Unit tests for the advanced_test.py functions.
-│   └── test_error_handling.py    # Unit tests for the error_handling_test.py functions.
-├── requirements.txt             # File for any necessary dependencies.
+├── basic_test.py              
+├── intermediate_test.py       
+├── advanced_test.py         
+├── error_handling_test.py       
+├── tests/                     
+│   ├── test_basic.py            
+│   ├── test_intermediate.py      
+│   ├── test_advanced.py          
+│   └── test_error_handling.py    
+├── requirements.txt             
 
 ## Files Overview:
 
